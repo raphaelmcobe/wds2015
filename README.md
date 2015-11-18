@@ -1,2 +1,2 @@
 # wds2015
-Workshop on Data Science.
+Project developed during the First Workshop on Data Science.
