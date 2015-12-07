@@ -1,7 +1,8 @@
 # wds2015
 Project developed during the First Workshop on Data Science.
 
-
+# Static version of the python notebook
+http://raphaelmcobe.github.io/wds2015/
 
 # API Usage
 The main service method `toJSON()` receives 3 parameters, a data frame specified as:
